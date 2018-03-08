@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: projektGRA, Configuration: Debug Win32 ------
+1>Hero.cpp
+1>c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\hero.cpp(15): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\hero.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\hero.cpp(162): warning C4715: 'Hero::quickAttack': not all control paths return a value
+1>c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\hero.cpp(172): warning C4715: 'Hero::powerAttack': not all control paths return a value
+1>projektGRA.vcxproj -> C:\Users\jeeho\Desktop\PROJEKTPO\GRUPA09_JAKUBWOZNIAK\Debug\projektGRA.exe
+1>projektGRA.vcxproj -> C:\Users\jeeho\Desktop\PROJEKTPO\GRUPA09_JAKUBWOZNIAK\Debug\projektGRA.pdb (Partial PDB)
+1>Done building project "projektGRA.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
