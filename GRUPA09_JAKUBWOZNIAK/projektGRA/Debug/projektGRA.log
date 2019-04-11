@@ -1,7 +1,0 @@
-﻿  Town.cpp
-c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\town.cpp(17): warning C4018: '<': signed/unsigned mismatch
-c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\town.cpp(157): warning C4129: 's': unrecognized character escape sequence
-c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\town.cpp(166): warning C4129: 's': unrecognized character escape sequence
-c:\users\jeeho\desktop\projektpo\grupa09_jakubwozniak\projektgra\town.cpp(207): warning C4129: 's': unrecognized character escape sequence
-  projektGRA.vcxproj -> C:\Users\jeeho\Desktop\PROJEKTPO\GRUPA09_JAKUBWOZNIAK\Debug\projektGRA.exe
-  projektGRA.vcxproj -> C:\Users\jeeho\Desktop\PROJEKTPO\GRUPA09_JAKUBWOZNIAK\Debug\projektGRA.pdb (Partial PDB)
